@@ -1,0 +1,29 @@
+{
+  "batchName": "B42WEENG",
+  "strength": 13,
+  "techStacks": [
+    "HTML", "CSS", "JS", "React", "Mongo", "NodeJs", "Express"
+  ],
+  "students": [
+    {
+      "name": "Shreemoy",
+      "phone": 1234234234
+    },
+    {
+      "name": "Shreemoy",
+      "phone": 1234234234
+    },
+    {
+      "name": "Shreemoy",
+      "phone": 1234234234
+    },
+    {
+      "name": "Shreemoy",
+      "phone": 1234234234
+    },
+    {
+      "name": "Shreemoy",
+      "phone": 1234234234
+    }
+  ]
+}

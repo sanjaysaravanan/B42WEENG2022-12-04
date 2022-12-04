@@ -1,0 +1,55 @@
+Installations:
+  Write Code and Develop
+    VSCode --> https://code.visualstudio.com/download
+
+  Scource Control Management: ( Storing Different Version of Codebase)
+    Git Tool Installation --> https://git-scm.com/downloads
+
+Topics:
+  VS-CODE
+  Step: 
+    1. Create Folder 
+    2. Open in VSCode
+    3. Create html and js file
+    4. Link JS file in HTML
+    5. Install Live Server and restart
+    6. Go To HTML right Click and open with Liver Server
+
+  Data types
+    Primitive( Basic Types ): number, string, boolean, undfined, null
+    Composite( Collection different Data Types ):
+      Array
+      object
+
+
+  Array Iteration:
+    1. simple for loop with inc variable
+    2. for of
+    3. for in
+    4. arr.forEach witrh arrow function
+
+  Array Iteration:
+    1. simple for loop with inc variable
+    2. for of
+    3. for in
+    4. arr.forEach witrh arrow function
+
+  Object Iteration:
+    1. for in
+
+  JSON --> JavaScript Object( key <-> value pair ) Notation
+  file format which data in object( key <-> value ) like structure
+
+    1. keys should be wrapped in double quotes
+    2. double quotes can only be used
+  
+  Copy by value and Copy by reference
+
+    Copy by value:
+      change in local scope does affect/changes the global scope value
+    Copy by reference:
+      Change in local scope affect/changes the global scope value
+  
+Next Session:
+  Window & document object
+  XMLHTTPRequest

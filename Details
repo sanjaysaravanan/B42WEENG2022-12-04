@@ -18,27 +18,21 @@ Topics:
   Data types
     Primitive( Basic Types ): number, string, boolean, undfined, null
     Composite( Collection different Data Types ):
-      Array
-      object
+      Array --> [1, 'NAME', true, undefined]
+      object --> { name: 'Sanjay', age: 25, isMarried: false }
 
 
   Array Iteration:
     1. simple for loop with inc variable
-    2. for of
-    3. for in
-    4. arr.forEach witrh arrow function
-
-  Array Iteration:
-    1. simple for loop with inc variable
-    2. for of
-    3. for in
+    2. for of --> go through the array elements
+    3. for in --> go through the index of array
     4. arr.forEach witrh arrow function
 
   Object Iteration:
     1. for in
 
   JSON --> JavaScript Object( key <-> value pair ) Notation
-  file format which data in object( key <-> value ) like structure
+  file format in which data is stored like object( key <-> value ) like structure
 
     1. keys should be wrapped in double quotes
     2. double quotes can only be used
